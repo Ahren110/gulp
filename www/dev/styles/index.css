@@ -1,0 +1,26 @@
+html, body {
+  height: 100%; }
+
+.wrap {
+  height: 100%;
+  background-color: #f4f4f4; }
+  .wrap h1 {
+    font-size: 3em;
+    text-align: center;
+    line-height: 150px;
+    color: #f60; }
+  .wrap p {
+    font-size: 2em;
+    text-align: center;
+    color: #4d4d4d;
+    padding: 0 10em; }
+  .wrap a {
+    font-size: 1.5em;
+    display: block;
+    text-decoration: underline;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -2em;
+    color: #068fc1;
+    line-height: 150px; }
