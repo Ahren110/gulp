@@ -28,9 +28,7 @@ npm install --global gulp browser-sync
 - 替换link script 链接 (gulp-cheerio)
 
 ```
-npm install --save-dev gulp gulp-htmlmin gulp-ruby-sass gulp-autoprefixer gulp-minify-css jshint gulp-jshint gulp-uglify 
-gulp-imagemin gulp-rename gulp-clean gulp-concat gulp-notify gulp-cache gulp-cheerio gulp-babel babel-preset-es2015 
-browser-sync
+npm install --save-dev gulp gulp-htmlmin gulp-ruby-sass gulp-autoprefixer gulp-minify-css jshint gulp-jshint gulp-uglify gulp-imagemin gulp-rename gulp-clean gulp-concat gulp-notify gulp-cache gulp-cheerio gulp-babel babel-preset-es2015 browser-sync
 ```
 
 > 在安装gulp-jshint的时候失败，采用	`npm install --save-dev jshint gulp-jshint`安装,[传送](https://github.com/spalger/gulp-jshint/issues/131)。
